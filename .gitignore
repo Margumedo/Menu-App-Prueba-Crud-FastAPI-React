@@ -1,0 +1,4 @@
+.env
+/venv
+/fastAPI/__pycache__/
+/React/menu-app/node_modules

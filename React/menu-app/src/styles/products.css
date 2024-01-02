@@ -1,0 +1,18 @@
+.products-card {
+    padding: 4rem;
+    background: red;
+}
+
+    
+h1 {
+    text-align: center;
+}
+
+.products-cards__container {
+    display: flex;
+    flex-flow:column;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1120px;
+    width: 90%;
+}
